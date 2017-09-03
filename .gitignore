@@ -1,0 +1,7 @@
+config/*
+!config/default.*
+npm-debug.log
+node_modules
+coverage
+.gitignore
+upload_9c8d208813adec3b0236a7361aa0f3ba.jpg

@@ -1,11 +1,11 @@
 module.exports = {
-  port: 3000,
+  port: 27017,
   session: {
     secret: 'myblog',
     key: 'myblog',
     maxAge: 2592000000
   },
-  mongodb: 'mongodb://localhost:3000/myblog'
+  mongodb: 'mongodb://localhost:27017/myblog'
 };
 
 /*
